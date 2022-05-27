@@ -7,3 +7,6 @@ print(c)
 
 d = c + a
 print(d)
+e = c + b
+print(e)
+print(e)
